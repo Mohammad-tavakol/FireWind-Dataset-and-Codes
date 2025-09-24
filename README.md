@@ -4,5 +4,5 @@ Link to the paper:
 https://engrxiv.org/preprint/view/4479/version/6104
 
 
-Link to teh dataset:
+Link to dataset:
 https://www.kaggle.com/datasets/mohammadtavakol/wildfirewind-interaction-dataset-les-simulations
